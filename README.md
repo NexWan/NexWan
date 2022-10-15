@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning java, c# and python, i would love to learn about cybersecurity on a future!
 - - I'm learning about JavaFX, C# file handling and how to implement different codes with python scripts.
-- :closed_book: I'm interested in videogames, movbile development, and scripts.
+- :closed_book: I'm interested in videogames, mobile development, and scripts.
 - :musical_keyboard: I love music.
 
 Since i was a kid i've been working with pc's on a hardware side, im currently focused on learning the most i can on the software side.
