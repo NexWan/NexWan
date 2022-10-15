@@ -4,7 +4,7 @@
 **I'm a mexican student currently studying Computer systems engineering!**
 
 - 🌱 I’m currently learning java, c# and python, i would love to learn about cybersecurity on a future!
-- - I'm learning about JavaFX, C# file managment and how to implement different codes with python scripts.
+- - I'm learning about JavaFX, C# file handling and how to implement different codes with python scripts.
 - :closed_book: I'm interested in videogames, movbile development, and scripts.
 - :musical_keyboard: I love music.
 
