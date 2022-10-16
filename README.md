@@ -10,7 +10,7 @@
 
 Since i was a kid i've been working with pc's on a hardware side, im currently focused on learning the most i can on the software side.
 
-I've been lately working on how mobile devices works and trying different things, i've been always been obssesed with the cool hacker guy from the movies lol.
+I've been lately working on how mobile devices works and trying different things, i've always been obssesed with the cool hacker guy from the movies lol.
 <!--
 **NexWan/NexWan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
