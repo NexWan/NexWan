@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">My name is Leo but you can call me Wan, I'm a mexican student of CS currently on 2nd year. </div>  
+### <div align="center">My name is Leo but you can call me Wan, I'm a mexican student of CS currently on 3rd year. </div>  
   
 
 - 👀 I'm looking forward to learn about web dev, cybersecurity and big data.  
