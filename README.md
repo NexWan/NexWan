@@ -114,3 +114,8 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31yzahwadeqrj7t3znaogbz63vjm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
 
 ###
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('
+https://github.com/NexWan/NexWan/blob/main/MV5BOWQ0YzMwZTQtMjVmMy00MzNkLWEzODUtYjU5M2NjZDZiY2RhXkEyXkFqcGdeQXVyMTQ4MTMwOTYw._V1_.jpg?raw=true');]{x0000}$}
