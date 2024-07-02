@@ -64,7 +64,7 @@
 
 <h2 align="center">Listening to</h2>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31yzahwadeqrj7t3znaogbz63vjm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
+<div align="center"><img src="https://spoti-playing.vercel.app/api/svg?userId=31yzahwadeqrj7t3znaogbz63vjm" /></div>
 
 ###
 
