@@ -64,7 +64,7 @@
 
 <h2 align="center">Listening to</h2>
 
-<div align="center"><img src="https://spoti-playing.vercel.app/api/svg?userId=31yzahwadeqrj7t3znaogbz63vjm" /></div>
+<div align="center"><img src="https://spoti-playing.vercel.app/api/svg?userId=31yzahwadeqrj7t3znaogbz63vjm&compact=true" /></div>
 
 ###
 
