@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a Mexican student of CS currently coursing it's 3rd year<br><br>- 🔭 I’m working as the main programmer for my college student board<br>- 📚 I'm currently learning Rust, Angular, Java, Kotlin, Oracle Cloud<br>- ⚡ In my free time I listen to music!</p>
+<p align="left">I'm a Mexican student of CS currently coursing it's 3rd year<br><br>- 🔭 I’m currently developing a mobile app to show public transport routes in real time<br>- 📚 I'm currently learning Rust, Angular, Java, Kotlin, Oracle Cloud<br>- ⚡ In my free time I listen to music!</p>
 
 ###
 
