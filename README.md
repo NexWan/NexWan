@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bn6uqzoyp087oi6vnn0e.gif"  />
-</div>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/Eo1ZLxj1Qggmvle4oG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/adultswim-adult-swim-pim-smiling-friends-Eo1ZLxj1Qggmvle4oG">via GIPHY</a></p>
 
 ###
 
