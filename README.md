@@ -1,4 +1,6 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/Eo1ZLxj1Qggmvle4oG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/adultswim-adult-swim-pim-smiling-friends-Eo1ZLxj1Qggmvle4oG">via GIPHY</a></p>
+<div align='center'>
+  <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJqcDN5Zm1lYWYza3BucDZvNnFhcjZrdG82NzR5b3EwNG9xcWR6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Eo1ZLxj1Qggmvle4oG/giphy.webp'/>
+</div>
 
 ###
 
