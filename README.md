@@ -12,7 +12,15 @@
 
 ###
 
-<p align="left">I'm a Mexican student of CS currently coursing it's 3rd year<br><br>- 🔭 I’m currently developing a mobile app to show public transport routes in real time<br>- 📚 I'm currently learning Rust, Angular, Java, Kotlin, Oracle Cloud<br>- ⚡ In my free time I listen to music!</p>
+<p>
+My name is Leo, I'm a mexican student of Computer Systems Engineering, currently at my 3rd year, I really love computers, they've been a part of my life since I was a child. <br>
+
+- [Took part of Oracle Cloud Challenge academy for students @ TECNM](https://1drv.ms/b/s!Ag7NmhN54xUEkKUC_KXw7z43iTPusQ?e=UEhVP7)
+- [Winner of regional hackaton "Hackatec 2024" @ TECNM](https://www.facebook.com/TecNMSaltilloSistemas/posts/825668063046098)
+- Currently working @ ZF Group
+
+### You can take a look at my projects on my [webpage](https://nexwan-github-io.vercel.app/)
+</p>
 
 ###
 
