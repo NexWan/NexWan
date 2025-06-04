@@ -19,7 +19,7 @@ My name is Leo, I'm a mexican student of Computer Systems Engineering, currently
 - [Winner of regional hackaton "Hackatec 2024" @ TECNM](https://www.facebook.com/TecNMSaltilloSistemas/posts/825668063046098)
 - Currently working @ Softtek
 
-### You can take a look at my projects on my [webpage](https://nexwan-github-io.vercel.app/)
+### You can take a look at my projects on my [webpage](https://portfolio-wan.vercel.app/)
 </p>
 
 ###
