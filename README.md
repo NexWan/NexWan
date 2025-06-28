@@ -17,6 +17,7 @@ My name is Leo, I'm a mexican student of Computer Systems Engineering, currently
 
 - [Took part of Oracle Cloud Challenge academy for students @ TECNM](https://1drv.ms/b/s!Ag7NmhN54xUEkKUC_KXw7z43iTPusQ?e=UEhVP7)
 - [Winner of regional hackaton "Hackatec 2024" @ TECNM](https://www.facebook.com/TecNMSaltilloSistemas/posts/825668063046098)
+- Currently working @ Justia MX
 
 ### You can take a look at my projects on my [webpage](https://portfolio-wan.vercel.app/)
 </p>
