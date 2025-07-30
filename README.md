@@ -13,7 +13,8 @@
 ###
 
 <p>
-My name is Leo, I'm a mexican student of Computer Systems Engineering, currently at my 4th year, I really love computers, they've been a part of my life since I was a child. <br>
+My name is Leo, I'm a Computer Systems engineering student from Mexico, currently at my 4th year, I really love computers, they've been a part of my life since I was a child. <br>
+I enjoy pretty much programming, whether it be creating a webpage to creating simple CLI scripts, even coding programs that interact with low level systems, I just like programming
 
 - [Took part of Oracle Cloud Challenge academy for students @ TECNM](https://1drv.ms/b/s!Ag7NmhN54xUEkKUC_KXw7z43iTPusQ?e=UEhVP7)
 - [Winner of regional hackaton "Hackatec 2024" @ TECNM](https://www.facebook.com/TecNMSaltilloSistemas/posts/825668063046098)
@@ -24,9 +25,27 @@ My name is Leo, I'm a mexican student of Computer Systems Engineering, currently
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<a href="https://github.com/NexWan/WanNote"><h3 align="left">🐍 Currently developing</h3></a>
+
+```json
+{
+  "name": "WanNote",
+  "description": "A simple note taking app, styled by MarkDown",
+  "tech": [
+            "Tauri",
+            "React",
+            "TypeScript",
+            "Tailwind",
+            "BunJS",
+            "Rust"
+          ],
+  "repo": "https://github.com/NexWan/WanNote"
+}
+```
 
 ###
+<h3 align="left">🛠 Language and tools</h3>
+
 
 <h3 align="left"> Backend </h3>
 <img src='https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,java,rust,zig,dotnet,kotlin,elysia,nextjs,spring'/>
@@ -73,6 +92,8 @@ My name is Leo, I'm a mexican student of Computer Systems Engineering, currently
 <h2 align="center">Listening to</h2>
 
 <div align="center"><img src="https://spoti-playing.vercel.app/api/svg?userId=31yzahwadeqrj7t3znaogbz63vjm&compact=true" /></div>
+
+This is a project that I created, you can take a look at it [here](https://github.com/NexWan/SpotiPlaying)
 
 ###
 
